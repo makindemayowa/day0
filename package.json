@@ -1,0 +1,22 @@
+{
+  "name": "day0",
+  "version": "1.0.0",
+  "description": "This repository contains all the tasks for the self learning clinic, but a branch is been used for each task. Tests can be run by using \"jasmine\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makindemayowa/day0.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/makindemayowa/day0/issues"
+  },
+  "homepage": "https://github.com/makindemayowa/day0#readme",
+  "dependencies": {
+    "jasmine": "^2.5.3"
+  }
+}
